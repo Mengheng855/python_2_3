@@ -46,7 +46,7 @@ while True:
     if opt=="1":
         register()
     elif opt=="2":
-        login()
+        pass
     elif opt=="3":
         break
     else:
